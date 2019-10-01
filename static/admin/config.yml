@@ -1,5 +1,5 @@
 backend: 
-    name: gibhub 
+    name: github 
     repo: jennego/gastby-cms-
 
 media_folder: static/assets 
